@@ -1,1 +1,2 @@
 hi this is my first git project.
+apache 3.0
